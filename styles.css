@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 800px
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 200px;
+    border: 1px solid black;
+    margin-right: 20px
+}
